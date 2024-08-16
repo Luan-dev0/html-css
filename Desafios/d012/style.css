@@ -69,7 +69,6 @@ section.imagem {
     background-color: silver;
     color: white;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.462);
-    background-position: right center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -83,8 +82,8 @@ section.imagem > p {
 
 section#img01 {
     background-image: url(pacote-d012/imagens/background001.jpg);
-    background-position: right center;
-    background-size: auto;
+    background-position: right 23% center;
+    
 }
 
 section#img02 {
